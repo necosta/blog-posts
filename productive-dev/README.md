@@ -1,7 +1,7 @@
 # (An effort on) productive development 
-|
-A couple of times in my professional career, while working in collaboration with other developers, 
-I've noticed repeated tasks, misuse of tools, and simply not being as efficient as possible in 
+
+Often in my professional career, while working in collaboration with other developers, 
+I notice repeated tasks, misuse of tools, and simply not being as-efficient-as-possible in 
 performing a task.
 
 For example:
@@ -15,8 +15,8 @@ For example:
 This article contains **tools**, **tips** and **strategies** that (hopefully) allows developers to develop software 
 in a more optimal manner. 
 
-It's incomplete and completely based on the author's experience. 
-Still can be useful for the community. In no particular order:
+It's incomplete and completely based on the author's experience, but can be useful as a reference.
+In no particular order:
 
 ### Password management
 
@@ -79,11 +79,13 @@ Some strategies:
 
 ### Tools
 
+Very opinionated partial list of must-have tools for effective development:
+
 * **Amphetamine:** Ensures your laptop does not go into sleep mode
 * **Atom:** Awesome text and source code editor
 * **Docker:** Containerisation support
 * **IntelliJ IDEA:** Powerful IDE (Integrated Development Environment)
-* **iTerm2:** Terminal emulator
+* **iTerm2:** Powerful terminal emulator
 * **kdiff3:** Great diff tool to solve git merge conflicts
 * **Postman:** Platform for API development
 * **Tablecruncher:** Powerful CSV editor
@@ -93,11 +95,11 @@ Some strategies:
 
 ### Other strategies
 
-* Check inner source and open source before starting any task
-* Perform source code analysis
+* Check inner and open source software before starting any task
+* Move to automated source code analysis and quality assurances
 * Perform code reviews in the morning
-* Periodically challenge status quo
+* Periodically challenge processes status quo
 
 _______
 
-> Work smart, not hard
+> Work smart, not hard 😉
